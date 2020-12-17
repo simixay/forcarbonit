@@ -1,0 +1,6 @@
+# map full of players
+C - 2 - 2
+A - Lara - 0 - 0 - E - AAAAAAAA
+A - Patrick - 0- 1 - E - AAAAAAA
+A - Sim - 1 - 0 - E - AAAAAA
+A - Xavier - 1 - 1 - E - AAAAAAAAAADDDDAAAA

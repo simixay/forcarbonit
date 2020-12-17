@@ -1,0 +1,5 @@
+#player surrounded by mountains
+C - 2 - 2
+A - Sim - 0 - 0 - E - AAAAAAAAGADGGGGGGGGAAAAAAGGGGGGAAAAAAAAAA
+M - 0 - 1
+M - 1 - 0

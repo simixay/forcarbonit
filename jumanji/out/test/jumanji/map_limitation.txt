@@ -1,0 +1,3 @@
+#player that exceed map limitation
+C - 2 - 2
+A - Lara - 0 - 0 - N - A

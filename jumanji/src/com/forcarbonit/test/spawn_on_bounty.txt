@@ -1,0 +1,4 @@
+#player that spawns on a bounty
+C - 2 - 2
+T - 0 - 0 - 5
+A - Lara - 0 - 0 - N - A
