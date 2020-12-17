@@ -1,5 +1,5 @@
 # forcarbonit
-coding test
+coding exercice
 
 # the game
 Our adventurers are sent into a world full of treasures to collect them by following a path given by an old parchment.
